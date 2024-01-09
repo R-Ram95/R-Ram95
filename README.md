@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+  
+  ## 💻 My Tech Stack
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,nodejs,vite,aws,docker,py)](https://skillicons.dev)
+  
+</div>
 
-<!--
-**R-Ram95/R-Ram95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 My Stats:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=r-ram95&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-ram95&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
