@@ -2,7 +2,7 @@
   
   ## 💻 My Tech Stack
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,nodejs,vite,aws,docker,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,nodejs,vite,aws,docker,py,cpp)](https://skillicons.dev)
   
 
 
